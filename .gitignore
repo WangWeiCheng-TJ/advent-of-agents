@@ -1,6 +1,7 @@
 # Python-generated files
 __pycache__/
 *.py[oc]
+*.py[cod]
 build/
 dist/
 wheels/
@@ -8,3 +9,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+
+# 忽略環境變數 (保護你的密碼!!)
+.env
+
+# 其他垃圾檔
+.DS_Store
