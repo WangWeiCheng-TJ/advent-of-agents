@@ -10,7 +10,6 @@ wheels/
 # Virtual environments
 .venv
 
-
 # 忽略環境變數 (保護你的密碼!!)
 .env
 
