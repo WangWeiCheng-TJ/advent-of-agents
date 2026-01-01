@@ -29,7 +29,7 @@
 ### Agent: Profile Builder
 - [x] **網頁爬蟲**: 使用 `requests` + `BeautifulSoup` 抓取個人網站。
 - [x] **智慧爬取**: 實作 `Recursive Crawling` (遞迴爬取)，自動抓取網站內的子分頁。
-- [] **LinkedIn支援**: To Do
+- [ ] **LinkedIn支援**: To Do
 - [x] **自動摘要**: Call Gemini api 整理爬下來的資訊為 Markdown 履歷。
 
 ### 未來規劃 (To-Do)
